@@ -283,6 +283,7 @@ body {
   background-size: cover;
   background-position: center;
   position: relative;
+  height: 550px;
 }
 
 .catchcopy {
